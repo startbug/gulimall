@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: gulimall-gateway
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        namespace: 7887d80c-ba9f-4bf1-af76-03da1f5abf58
